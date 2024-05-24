@@ -1,1 +1,1 @@
-username:password:hwid
+username:password:f7|df|7c|f3|cd|37
